@@ -1,0 +1,75 @@
+---
+name: ux-copy
+description: Write or review UX copy — microcopy, error messages, empty states, CTAs, confirmation dialogs and onboarding text.
+argument-hint: "<context or copy to review>"
+---
+
+# UX copy
+
+> Use the connectors available in this session. If the design connector is unavailable, use a supplied screenshot, export, or pasted text as evidence.
+
+Write or review UX copy for any interface context.
+
+For marketing headlines and campaign CTAs, use `copywriting`. Use this skill for labels and guidance within the product.
+
+## What I Need From You
+
+- **Context**: What screen, flow, or feature?
+- **User state**: What is the user trying to do? How are they feeling?
+- **Tone**: Formal, friendly, playful, reassuring?
+- **Constraints**: Character limits, platform guidelines?
+
+## Principles
+
+1. **Clear**: Say exactly what you mean. No jargon, no ambiguity.
+2. **Concise**: Use the fewest words that convey the full meaning.
+3. **Consistent**: Same terms for the same things everywhere.
+4. **Useful**: Every word should help the user accomplish their goal.
+5. **Human**: Write like a helpful person, not a robot.
+
+## Copy Patterns
+
+### CTAs
+- Start with a verb: "Start free trial", "Save changes", "Download report"
+- Be specific: "Create account" not "Submit"
+- Match the outcome to the label
+
+### Error Messages
+Structure: What happened + Why + How to fix
+- "Payment declined. Your card was declined by your bank. Try a different card or contact your bank."
+
+### Empty States
+Structure: What this is + Why it's empty + How to start
+- "No projects yet. Create your first project to start collaborating with your team."
+
+### Confirmation Dialogs
+- Make the action clear: "Delete 3 files?" not "Are you sure?"
+- Describe consequences: "This can't be undone"
+- Label buttons with the action: "Delete files" / "Keep files" not "OK" / "Cancel"
+
+### Tooltips
+- Concise, helpful, never obvious
+
+### Loading States
+- Set expectations, reduce anxiety
+
+### Onboarding
+- Progressive disclosure, one concept at a time
+
+## Voice and Tone
+
+Adapt tone to context:
+- **Success**: Celebratory but not over the top
+- **Error**: Empathetic and helpful
+- **Warning**: Clear and actionable
+- **Neutral**: Informative and concise
+
+Return the requested copy or feedback directly for a small task. For a full review, use the [output template](references/output-template.md).
+
+For connected design sources, read [connector workflows](references/connectors.md) if the session provides a relevant connector.
+
+## Tips
+
+1. **Be specific about context** — "Error message when payment fails" is better than "error message."
+2. **Share your brand voice** — "We're professional but warm" helps me match your tone.
+3. **Consider the user's emotional state** — Error messages need empathy. Success messages can celebrate.
